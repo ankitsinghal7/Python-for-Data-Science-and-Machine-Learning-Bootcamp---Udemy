@@ -126,7 +126,7 @@ print(np.log(array))
 Prints the log of all the elements present in the array.
 Since log(0) is not defined, it prints -inf and gives a Runtime Warning.
 Warning (from warnings module):
-  File "C:/Users/ankit/Desktop/Lec21_NumPy_Operations.py", line 122
+  File "C:/Users/ankit/Desktop/Lec21_NumPy_Operations.py", line 124
     print(np.log(array))
 RuntimeWarning: divide by zero encountered in log
 Output:
